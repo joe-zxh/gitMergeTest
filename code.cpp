@@ -1,1 +1,1 @@
-cout<<"fuck1"<<endl;
+cout<<"fuck2"<<endl;
